@@ -1,0 +1,19 @@
+// Place all the styles related to the trips controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$navbar-default-bg: #312312;
+$light-orange: #ff8c00;
+$navbar-default-color: $light-orange;
+$navbar-default-link-color: #f36;
+
+@import "bootstrap";
+
+/*.carousel-inner {
+  height: 300px;
+  /*margin: 0px auto;*/
+
+.img-thumbnail {
+  margin: 0 auto;
+  width: 700px;
+  height: 700px;
+}
